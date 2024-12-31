@@ -42,11 +42,11 @@ npm run build
 npm run preview
 ```
 
-React Crash 2024
+# React Crash 2024
 
-Welcome to React Crash 2024, a React-based web application for exploring job opportunities in the tech space. This project is part of my journey in project-based learning, aimed at mastering React.js by building practical applications.
+## Welcome to React Crash 2024, a React-based web application for exploring job opportunities in the tech space. This project is part of my journey in project-based learning, aimed at mastering React.js by building practical applications.
 
-Features
+# Features
 
 Job Listings: Browse a curated list of tech jobs.
 
@@ -59,7 +59,7 @@ Dynamic Components: Enhance interactivity with reusable components.
 React Router: Navigate effortlessly between pages.
 
 
-Tech Stack
+# Tech Stack
 
 Frontend: React.js, HTML, CSS, JavaScript
 
@@ -72,18 +72,18 @@ Routing: React Router
 Backend: [Optional/Placeholder for API if used]
 
 
-Getting Started
+# Getting Started
 
 Follow these steps to run the project locally:
 
-Prerequisites
+## Prerequisites
 
 Node.js (v14 or later)
 
 npm or yarn
 
 
-Installation
+# Installation
 
 1. Clone the repository:
 
@@ -101,7 +101,7 @@ npm install
 
 
 
-Running the Application
+# Running the Application
 
 Start the development server:
 
@@ -109,13 +109,13 @@ npm start
 
 The app will be available at http://localhost:3000.
 
-Building for Production
+# Building for Production
 
 To create a production-ready build:
 
 npm run build
 
-Project Goals
+# Project Goals
 
 1. Learn and implement core React concepts:
 
@@ -137,7 +137,7 @@ Lifecycle Methods
 
 
 
-Future Enhancements
+# Future Enhancements
 
 Add a backend API for live job postings.
 
@@ -148,7 +148,7 @@ Add a job application tracker.
 Improve the UI/UX with animations.
 
 
-Contributing
+# Contributing
 
 Contributions are welcome! If you'd like to improve this project, follow these steps:
 
@@ -168,7 +168,7 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 
 
 
-License
+# License
 
 This project is licensed under the MIT License.
 
