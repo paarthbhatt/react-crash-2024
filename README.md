@@ -83,7 +83,7 @@ Node.js (v14 or later)
 npm or yarn
 
 
-# Installation
+## Installation
 
 1. Clone the repository:
 
@@ -101,7 +101,7 @@ npm install
 
 
 
-# Running the Application
+## Running the Application
 
 Start the development server:
 
@@ -109,7 +109,7 @@ npm start
 
 The app will be available at http://localhost:3000.
 
-# Building for Production
+## Building for Production
 
 To create a production-ready build:
 
